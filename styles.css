@@ -1,0 +1,16 @@
+.header {
+    padding: 400px;
+    text-align: center;
+    background: #920ecf;
+    color: rgb(250, 124, 21);
+    font-size: 150px;
+  }
+body {
+    background-color:rgb(250, 235, 21)
+}
+
+.paragraph {
+    color:black;
+    font-size: 50px;
+    
+}
