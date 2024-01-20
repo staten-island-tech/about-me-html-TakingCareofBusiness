@@ -1,9 +1,9 @@
 .header {
-    padding: 400px;
+    padding: 100px;
     text-align: center;
     background: #920ecf;
     color: rgb(250, 124, 21);
-    font-size: 150px;
+    font-size: 75px;
   }
 body {
     background-color:rgb(250, 235, 21)
@@ -11,6 +11,13 @@ body {
 
 .paragraph {
     color:black;
-    font-size: 50px;
+    font-size: 25px;
     
 }
+.orderedlist {
+    text-align: center;
+}
+.link {
+    text-align: right;
+}
+    
